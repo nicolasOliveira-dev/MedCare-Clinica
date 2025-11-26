@@ -3,7 +3,7 @@ class Conexao {
     private static $servidor = "localhost";
     private static $banco    = "clinica";
     private static $usuario  = "root";
-    private static $senha    = "2308";
+    private static $senha    = "1234";
 
 public static function getConexao()
  {
